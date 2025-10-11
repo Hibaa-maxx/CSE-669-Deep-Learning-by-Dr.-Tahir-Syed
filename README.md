@@ -12,17 +12,19 @@ The course emphasizes both **conceptual understanding** and **hands-on implement
 
 ### ✅ Uploaded  
 - **Lecture 1 — Introduction to Deep Learning**  
-- **Lecture 2 — The Perceptron**  
+- **Lecture 2 — The Perceptron**
+- **Lecture 4 — Forward Propagation**  
+- **Lecture 5 — Gradient Descent**  
+- **Lecture 6 — Cost Functions**  
+- **Lecture 7 —  Back Propagation**  
 
 ### ⏳ Upcoming Topics  
 The following topics will be uploaded progressively as the course advances:  
 - Neural Networks as Universal Approximators  
-- Gradient Descent & Loss Functions  
-- Activation Functions  
-- Backpropagation  
-- Calculus Refresher & Forward Pass  
-- Backward Pass  
+- Activation Functions    
+- Calculus Refresher
 - Computational Graph Practice Problems *(for Mid-Term)*  
-- Segmentation  
-- Convolutional Neural Networks (CNN)  
+- Convolutional Neural Networks (CNN)
+- - Segmentation  
+
 ---
